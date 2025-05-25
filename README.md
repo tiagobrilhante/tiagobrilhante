@@ -40,6 +40,9 @@ Atualmente, lidero projetos estratégicos no Comando Militar da Amazônia, onde 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white)
 ![Lumen](https://img.shields.io/badge/Lumen-E74430?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 #### 🗃️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -51,18 +54,28 @@ Atualmente, lidero projetos estratégicos no Comando Militar da Amazônia, onde 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
 
 #### 🚀 DevOps & Infraestrutura
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=flat&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+#### ☁️ Cloud Computing
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat&logo=oracle&logoColor=white)
 
 ---
 
 ### 📊 Estatísticas GitHub
 
-![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagobrilhante&show_icons=true&theme=github_dark&locale=pt-br)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tiagobrilhante&show_icons=true&theme=github_dark&locale=pt-br" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobrilhante&layout=compact&theme=github_dark" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobrilhante&layout=compact&theme=github_dark)
 
 ---
 
