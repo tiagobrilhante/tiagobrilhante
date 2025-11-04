@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Tiago Brilhante</h1>
 
 <p align="center">
-  <strong>🎯 Desenvolvedor Sênior full-cicle | ⚙️ DevOps | 🧠 IA & Dados  </strong><br>
+  <strong>🎯 Desenvolvedor Sênior full-cycle | ⚙️ DevOps | 🧠 IA & Dados  </strong><br>
   <em>27+ anos de experiência | Criador de soluções completas de ponta a ponta</em><br>
   🇧🇷 Atuando no Comando Militar da Amazônia  
 🚀 Criador da **STD Out Dev Br**, **Poll4U**, e **Integed** <br>
