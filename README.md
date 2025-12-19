@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img width="18%" src="https://avatars.githubusercontent.com/u/3910647?v=4" />
+</p>
+
+
 <h1 align="center">👨‍💻 Tiago Brilhante</h1>
 
 <p align="center">
