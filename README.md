@@ -7,7 +7,7 @@
 <h1 align="center">👨‍💻 Tiago Brilhante</h1>
 
 <p align="center">
-  <strong>🎯 Desenvolvedor Sênior full-cycle | ⚙️ DevOps | 🧠 IA & Dados  </strong><br>
+  <strong>Arquiteto de Software | Desenvolvedor Sênior full-cycle | DevOps | IA & Dados  </strong><br>
   <em>27+ anos de experiência | Criador de soluções completas de ponta a ponta</em><br>
 </p>
 
@@ -16,9 +16,9 @@
 
 ### Sobre Mim
 
-Sou um desenvolvedor full-cycle com mais de 27 anos de experiência em engenharia de software. Atuo desde a concepção até a entrega final de soluções robustas, escaláveis e seguras, tanto no frontend quanto no backend, com domínio total da infraestrutura e arquitetura necessária.
+Sou um Arquiteto de Software / desenvolvedor full-cycle com mais de 27 anos de experiência. Atuo desde a concepção até a entrega final de soluções robustas, escaláveis e seguras, tanto no frontend quanto no backend, com domínio total da infraestrutura e arquitetura necessária.
 
-Atualmente, lidero projetos estratégicos no Comando Militar da Amazônia, onde aplico práticas modernas de DevOps, engenharia de dados e desenvolvimento web de alto desempenho. Também sou fundador da [STD Out](https://stdout.dev.br), uma fábrica de software criadora de produtos voltados para a solução de problemas.
+Atualmente, lidero projetos estratégicos no Comando Militar da Amazônia, onde aplico práticas modernas de DevOps, IA, engenharia de dados e desenvolvimento web de alto desempenho. Também sou fundador da [STD Out](https://stdout.dev.br), uma fábrica de software criadora de produtos voltados para a solução de problemas.
 
 ---
 
